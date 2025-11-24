@@ -39,7 +39,7 @@ warnings.filterwarnings('ignore')
 # ============================================================================
 # 🔑 CONFIGURATION
 # ============================================================================
-QBRAID_API_KEY = os.environ.get("QBRAID_API_KEY", "2spfm4ci8wtrh23yjkcdoas1ns9npv")
+QBRAID_API_KEY = os.environ.get("QBRAID_API_KEY", ")
 SHOTS = 100
 SESSION_ID = datetime.now().strftime("%Y%m%d_%H%M%S")
 CSV_FILE = f"phaseflip_presale_test_{SESSION_ID}.csv"
