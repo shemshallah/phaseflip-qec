@@ -1,0 +1,64 @@
+PHASEFLIP QEC COMMERCIAL SOFTWARE LICENSE
+Version 1.0
+
+Copyright (c) 2025 OaGI Research
+All rights reserved.
+
+PROPRIETARY SOFTWARE - AVAILABLE FOR PURCHASE
+
+This software and associated documentation files (the "Software") are 
+proprietary and confidential. This Software may be purchased outright
+or licensed for use.
+
+NOTICE: This software is currently offered for sale. The buyer will receive:
+1. Full source code ownership
+2. Unlimited usage rights
+3. Rights to modify and create derivative works
+4. Rights to sublicense or resell
+5. All intellectual property rights
+6. 30 days of technical support during transition
+
+CURRENT STATUS: NOT LICENSED FOR USE WITHOUT PURCHASE
+
+You may NOT without prior purchase and written agreement:
+- Use, copy, modify, or distribute this Software
+- Reverse engineer, decompile, or disassemble this Software
+- Create derivative works based on this Software
+- Remove or alter any proprietary notices
+
+PURCHASE INQUIRIES
+
+For information on purchasing this technology outright:
+- Email: [shemshallah@gmail.com]
+- Include: intended use case, timeline, budget range
+
+INTELLECTUAL PROPERTY
+
+All rights, title, and interest in the Software remain with OaGI Research
+until purchased. Upon purchase, full IP rights transfer to buyer per
+purchase agreement terms.
+
+WARRANTY DISCLAIMER
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL OAGI RESEARCH BE LIABLE FOR ANY SPECIAL, INCIDENTAL,
+INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER ARISING OUT OF THE USE OF
+OR INABILITY TO USE THE SOFTWARE.
+
+GOVERNING LAW
+
+This Agreement shall be governed by the laws of [Your Jurisdiction],
+without regard to conflict of law provisions.
+
+CONTACT
+
+OaGI Research
+Email: [shemshallah@gmail.com]
+Github: [https://github.com/shemshallah]
+
+For purchase terms and pricing, please contact directly via email.

@@ -1,0 +1,21 @@
+Timestamp,Test_Name,Status,Job_ID,Qubits,Distance,Entropy,Top_State_Prob,Unique_States,Shots,Quality_Score,Message
+2025-11-24T08:05:44.276384,Distance3_Encoding,SUBMITTED,iqm_garnet-shemshallah-qjob-gv19jbdwn1jb5ic2hzfa,3,0,0.0000,0.0000,0,100,0.0000,Job submitted to IQM Garnet
+2025-11-24T08:06:25.150695,Distance3_Encoding,COMPLETED,iqm_garnet-shemshallah-qjob-gv19jbdwn1jb5ic2hzfa,3,0,0.0000,0.0000,8,100,0.0000,Results received: 8 unique states
+2025-11-24T08:06:25.151123,Distance-3 Encoder,PASS,iqm_garnet-shemshallah-qjob-gv19jbdwn1jb5ic2hzfa,3,3,2.9655,0.1600,8,100,0.9919,"Entropy=2.965 (high=good), States=8, Quality=0.99"
+2025-11-24T08:06:25.996506,Phase_Error_Detection,SUBMITTED,iqm_garnet-shemshallah-qjob-ivu4gxed0hpk96g0k1cc,3,0,0.0000,0.0000,0,100,0.0000,Job submitted to IQM Garnet
+2025-11-24T08:06:46.937062,Phase_Error_Detection,COMPLETED,iqm_garnet-shemshallah-qjob-ivu4gxed0hpk96g0k1cc,3,0,0.0000,0.0000,8,100,0.0000,Results received: 8 unique states
+2025-11-24T08:06:46.937512,Phase Error Detection,PASS,iqm_garnet-shemshallah-qjob-ivu4gxed0hpk96g0k1cc,3,3,2.9766,0.1600,8,100,0.9945,"Error injected, Entropy=2.977, States=8"
+2025-11-24T08:06:47.810076,Syndrome_Measurement,SUBMITTED,iqm_garnet-shemshallah-qjob-e9ahgld0xoanx37871v4,5,0,0.0000,0.0000,0,100,0.0000,Job submitted to IQM Garnet
+2025-11-24T08:07:38.753979,Syndrome_Measurement,COMPLETED,iqm_garnet-shemshallah-qjob-e9ahgld0xoanx37871v4,5,0,0.0000,0.0000,20,100,0.0000,Results received: 20 unique states
+2025-11-24T08:07:38.754507,Syndrome Measurement,PASS,iqm_garnet-shemshallah-qjob-e9ahgld0xoanx37871v4,5,3,3.6297,0.1600,20,100,0.6957,"Syndrome circuit executed, States=20, Entropy=3.630"
+2025-11-24T08:07:39.663646,Unentangled_Baseline,SUBMITTED,iqm_garnet-shemshallah-qjob-ewzbg2jlxuy8evejba7s,3,0,0.0000,0.0000,0,100,0.0000,Job submitted to IQM Garnet
+2025-11-24T08:08:05.384491,Unentangled_Baseline,COMPLETED,iqm_garnet-shemshallah-qjob-ewzbg2jlxuy8evejba7s,3,0,0.0000,0.0000,8,100,0.0000,Results received: 8 unique states
+2025-11-24T08:08:06.354688,Entangled_QEC,SUBMITTED,iqm_garnet-shemshallah-qjob-ofrknoicf2tn7k4amnfz,3,0,0.0000,0.0000,0,100,0.0000,Job submitted to IQM Garnet
+2025-11-24T08:09:12.469055,Entangled_QEC,COMPLETED,iqm_garnet-shemshallah-qjob-ofrknoicf2tn7k4amnfz,3,0,0.0000,0.0000,8,100,0.0000,Results received: 8 unique states
+2025-11-24T08:09:12.469612,Entanglement Quality,FAIL,iqm_garnet-shemshallah-qjob-ofrknoicf2tn7k4amnfz,3,3,2.9271,0.0000,8,100,0.9830,"Unent=8 states, Ent=8 states (difference shows entanglement)"
+2025-11-24T08:09:13.348098,Distance5_Scaling,SUBMITTED,iqm_garnet-shemshallah-qjob-ysojv1btxzi7o5to7gtw,5,0,0.0000,0.0000,0,100,0.0000,Job submitted to IQM Garnet
+2025-11-24T08:09:43.987266,Distance5_Scaling,COMPLETED,iqm_garnet-shemshallah-qjob-ysojv1btxzi7o5to7gtw,5,0,0.0000,0.0000,29,100,0.0000,Results received: 29 unique states
+2025-11-24T08:09:43.987770,5-Qubit Distance-5,PASS,iqm_garnet-shemshallah-qjob-ysojv1btxzi7o5to7gtw,5,5,4.5935,0.0900,29,100,0.9150,"Scaled successfully, Entropy=4.594, States=29"
+2025-11-24T08:09:44.925099,Hardware_Performance_6Q,SUBMITTED,iqm_garnet-shemshallah-qjob-zhjt1uhiscdm8byk43ot,6,0,0.0000,0.0000,0,100,0.0000,Job submitted to IQM Garnet
+2025-11-24T08:10:10.676769,Hardware_Performance_6Q,COMPLETED,iqm_garnet-shemshallah-qjob-zhjt1uhiscdm8byk43ot,6,0,0.0000,0.0000,49,100,0.0000,Results received: 49 unique states
+2025-11-24T08:10:10.677438,6-Qubit Performance,PASS,iqm_garnet-shemshallah-qjob-zhjt1uhiscdm8byk43ot,6,3,5.4123,0.0500,49,100,0.8611,"Complex circuit executed, Quality=0.86, States=49"
