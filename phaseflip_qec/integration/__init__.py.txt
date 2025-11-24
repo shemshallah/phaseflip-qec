@@ -1,0 +1,11 @@
+"""
+PhaseFlip QEC Integration
+
+Provides integration with quantum computing frameworks.
+"""
+
+from .qiskit_transpiler import PhaseFlipTranspilerPass
+
+__all__ = [
+    "PhaseFlipTranspilerPass",
+]
